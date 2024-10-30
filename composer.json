@@ -1,0 +1,27 @@
+{
+	"name": "primary-tag-plugin",
+	"description": "10up Exercise",
+	"version": "0.0.1",
+	"type": "wordpress-plugin",
+	"keywords": [],
+	"homepage": "http://layer7web.com",
+	"license": "GPLv2.0+",
+	"authors": [
+		{
+			"name": "Jeffrey S. Mattson",
+			"email": "jeff@layer7web.com",
+		"homepage": "https://github.com/jeffreysmattson",
+			"role": "Developer"
+		}
+	],
+    "minimum-stability": "dev",
+	"require": {
+		"php": ">=5.4"
+	},
+    "require-dev": {
+	    "antecedent/patchwork": "1.2.*",
+        "phpunit/phpunit"     : "*@stable",
+	    "brianium/paratest"   : "dev-master",
+        "10up/wp_mock"        : "dev-master"
+    }
+}

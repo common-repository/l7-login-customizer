@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: l7 Login Customizer\n"
+"POT-Creation-Date: 2015-10-06 22:26-0400\n"
+"PO-Revision-Date: 2015-10-06 23:01-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: l7-login-customizer.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin-functions.php:32
+msgid "Logo Settings"
+msgstr "Stel Logo in"
+
+#: includes/admin-functions.php:33
+msgid "Logo Upload"
+msgstr "Upload je logo"
+
+#: includes/admin-functions.php:34
+msgid "Set Logo Height"
+msgstr "Stel hoogte in"
+
+#: includes/admin-functions.php:35
+msgid "Set Logo Width"
+msgstr "Logo breedte :"
+
+#: includes/admin-functions.php:36
+msgid "Space Logo and Top Form"
+msgstr "vak van een formulier"
+
+#: includes/admin-functions.php:37
+msgid "Logo Preview"
+msgstr "Voorbeeld"
+
+#: includes/admin-functions.php:38
+msgid "Logo Link URL"
+msgstr "koppelings URL"
+
+#: includes/admin-functions.php:39
+msgid "Logo Image Title"
+msgstr "Logo afbeelding"
+
+#: includes/admin-functions.php:42
+msgid "Page Settings"
+msgstr "Pagina instellingen"
+
+#: includes/admin-functions.php:43
+msgid "Page&#8217;s Background Color"
+msgstr "Pagina Achtergrondkleur"
+
+#: includes/admin-functions.php:44
+msgid "Form&#8217;s Background Color"
+msgstr "Formulier &#8217; s achtergrondkleur"
+
+#: includes/admin-functions.php:45
+msgid "Small Form&#8217;s Background Color"
+msgstr "Small Form &#8217; s achtergrondkleur"
+
+#: includes/admin-functions.php:46
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: includes/admin-functions.php:47
+msgid "Background Image Preview"
+msgstr "Achtergrondafbeelding"
+
+#: includes/admin-functions.php:50
+msgid "Text Settings"
+msgstr "Tektuele instellingen"
+
+#: includes/admin-functions.php:51
+msgid "Text Color"
+msgstr "Kleurenschema"
+
+#: includes/admin-functions.php:52
+msgid "Link Text Color"
+msgstr "Tekst kleur linken"
+
+#: includes/admin-functions.php:53
+msgid "Link Text Hover Color"
+msgstr "Link Hover Kleur"
+
+#: includes/admin-functions.php:54
+msgid "Hide Links"
+msgstr "Verberg Links"
+
+#: includes/admin-functions.php:55
+msgid "Hide Back to Blog Link"
+msgstr "Terug naar Blog Link verbergen"
+
+#: includes/admin-functions.php:58
+msgid "Submit Button Settings"
+msgstr "Knopinstellingen indienen"
+
+#: includes/admin-functions.php:59
+msgid "Submit Button Color"
+msgstr "Verstuurknop kleur hover"
+
+#: includes/admin-functions.php:60
+msgid "Submit Button Border Color"
+msgstr "Verstuurknop kleur hover"
+
+#: includes/admin-functions.php:63
+msgid "CSS Settings"
+msgstr "CSS instellingen"
+
+#: includes/admin-functions.php:64
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: includes/admin-functions.php:125 includes/admin-functions.php:249
+msgid "Select"
+msgstr "Selecteren"
+
+#: includes/admin-functions.php:129
+msgid "Upload or choose an image for the logo."
+msgstr "Upload of kies een afbeelding voor het logo."
+
+#: includes/admin-functions.php:139 includes/admin-functions.php:198
+msgid "Height"
+msgstr "Hoogte"
+
+#: includes/admin-functions.php:140 includes/admin-functions.php:151
+#: includes/admin-functions.php:199
+msgid "Example: 100px"
+msgstr "Voorbeeld: 100px"
+
+#: includes/admin-functions.php:150
+msgid "Width"
+msgstr "Breedte"
+
+#: includes/admin-functions.php:176
+msgid "http://example.com"
+msgstr "http://example.com"
+
+#: includes/admin-functions.php:199
+msgid "Distance from the bottom of the logo and the top of the inner form."
+msgstr ""
+"Afstand vanaf de onderkant van het logo en de bovenkant van de innerlijke "
+"vorm."
+
+#: includes/admin-functions.php:210 includes/admin-functions.php:223
+#: includes/admin-functions.php:236 includes/admin-functions.php:286
+#: includes/admin-functions.php:297 includes/admin-functions.php:308
+msgid "6 digit hex color code"
+msgstr "6-cijferige hex kleurcode"
+
+#: includes/admin-functions.php:257
+msgid "Repeat"
+msgstr "Herhaal"
+
+#: includes/admin-functions.php:260
+msgid "Center"
+msgstr "centerpunt"
+
+#: includes/admin-functions.php:408
+msgid "You have entered an invalid logo URL."
+msgstr "U hebt een ongeldige logo-URL."
+
+#: includes/admin-functions.php:416
+msgid ""
+"You have entered an invalid logo height. Please enter height in this format: "
+"'100<b>px</b>'."
+msgstr ""
+"U hebt een ongeldige logo hoogte. Voer de hoogte in dit formaat: ‘ 100<b>px</"
+"b>’."
+
+#: includes/admin-functions.php:424
+msgid ""
+"You have entered an invalid logo width. Please enter width in this format: "
+"'100<b>px</b>'."
+msgstr ""
+"U hebt een ongeldige logo breedte. Voer de breedte in dit formaat: ‘ "
+"100<b>px</b>’."
+
+#: includes/admin-functions.php:432
+msgid "You have entered an invalid link URL."
+msgstr "U hebt een ongeldige attribuutnaam opgegeven."
+
+#: includes/admin-functions.php:455
+msgid ""
+"You have entered an invalid Space to Top of Form value. Please enter the "
+"value in this format: '100<b>px</b>'."
+msgstr ""
+"U hebt een ongeldige ruimte opgegeven naar bovenkant formulier waarde. Voer "
+"de waarde in deze notatie: ‘ 100<b>px</b>’."
+
+#: includes/admin-functions.php:479
+msgid "You have entered an invalid background image URL."
+msgstr "U hebt een ongeldige achtergrond afbeeldings-URL."
+
+#: includes/options-page.php:28
+msgid "Custom Login"
+msgstr "E-mailadres klant"
+
+#: includes/options-page.php:45 includes/options-page.php:56
+msgid "Save Changes"
+msgstr "Wijzigingen Opslaan"
+
+#: includes/options-page.php:46 includes/options-page.php:57
+msgid "Preview of custom login. Saved changes are shown here."
+msgstr ""
+"Preview van aangepaste login. Opgeslagen wijzigingen worden hier weergegeven."
+
+#: includes/options-page.php:46 includes/options-page.php:57
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: includes/options-page.php:66
+msgid "Comments?"
+msgstr "Reacties"
+
+#. Plugin Name of the plugin/theme
+msgid "l7 Login Customizer"
+msgstr "L7 Login Customizer"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://layer7web.com"
+msgstr "https://layer7web.com"
+
+#. Description of the plugin/theme
+msgid ""
+"For customizing the login, logout, and register pages. Add a custom logo and "
+"background image easily."
+msgstr ""
+"Voor het aanpassen van de login, afmelden en registreren’s. Een aangepaste "
+"logo en achtergrond afbeelding gemakkelijk toevoegen."
+
+#. Author of the plugin/theme
+msgid "Jeffrey S. Mattson"
+msgstr "Jeffrey S. Mattson"
